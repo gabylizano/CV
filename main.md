@@ -5,19 +5,19 @@ location: "Costa Rica"
 ---
 
 # Gabriela Maria Lizano Arguedas
-Senior Project & Program Manager
-email: gaby28ac@gmail.com
-phone number: +506 83235762
-LinkedIn: https://www.linkedin.com/in/gabriela-lizano-arguedas
+- Title: Senior Project & Program Manager
+- email: gaby28ac@gmail.com
+- phone number: +506 83235762
+- LinkedIn: https://www.linkedin.com/in/gabriela-lizano-arguedas
 
-**Professional Profile**
+## Professional Profile
 
 Professional in Project Management and Program Management with over 10 years of experience in multinational companies, and a Bachelor's degree in Business Administration and Accounting. Experience in IT, Human Resources, and Digital Transformations, Data Privacy and Security and implementation of new information systems focused on automation using AI to help me move faster. Competencies in end-to-end Project implementation and process improvement. Knowledge in ITIL, PMP, Six Sigma and Scrum. Trajectory in managing large-scale customer-facing Products. Proven ability in transforming complex requirements into manageable tasks with high impacting results.
 
 
-**Professional Experience**
+## Professional Experience 
 
-**Amazon January 2021-December 2025**
+### Amazon January 2021-December 2025
 Data Management Privacy & Security Program Manager II
 
 Led a Privacy and Security Program Team, and Special Projects focused on closing or reducing gaps in HR processes related to employee's Personal and Job Data Management. Analyzing each Project's individual impact and
