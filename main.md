@@ -1,10 +1,13 @@
-**Gabriela Maria Lizano Arguedas**
+---
+name: "Gabriela Maria Lizano Arguedas"
+title: "Senior Project & Program Manager"
+location: "Costa Rica"
+---
 
-\(506\) 83235762
-
-gaby28ac@gmail.com
-
-www.linkedin.com/in/gabriela-lizano-arguedas
+# Gabriela Maria Lizano Arguedas
+email: gaby28ac@gmail.com
+phone number: +506 83235762
+LinkedIn: https://www.linkedin.com/in/gabriela-lizano-arguedas
 
 **Professional Profile**
 
@@ -18,6 +21,7 @@ implementation and process improvement. Knowledge in ITIL, PMP, Six
 Sigma and Scrum. Trajectory in managing large-scale customer-facing
 Products. Proven ability in transforming complex requirements into
 manageable tasks with high impacting results.
+
 
 **Professional Experience**
 
