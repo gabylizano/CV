@@ -5,6 +5,7 @@ This repository currently contains a professional CV in Markdown format. Below a
 The main.md file contains all the information related to Gabriela's experience, education, and whatever is need for job applcation.
 
 Project idea is tailor resumes using the main.md information and generate a new one.
+
 ## General rules
 - never modify main.md
 
