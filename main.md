@@ -9,6 +9,7 @@ location: "Costa Rica"
 - email: gaby28ac@gmail.com
 - phone number: +506 83235762
 - LinkedIn: https://www.linkedin.com/in/gabriela-lizano-arguedas
+- Github: https://github.com/gabylizano/
 
 ## Professional Profile
 
