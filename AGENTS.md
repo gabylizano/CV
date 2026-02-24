@@ -19,7 +19,9 @@ Project idea is tailor resumes using the main.md information and generate a new 
 - Markdown
 - Not larger than 2 pages
 - Emphasize achievements
+- No more than 2 achievements, include only the more relevant for the job role position
 - Don't add a key achievements section
 - Write achievement to each previous position but don't add a subtitle like "key achievements"
 - ATS-Friendly
 - My title is "Senior Project & Program Manager"
+- Don't use repeatitive language or words when modifying job descriptions or achievements
