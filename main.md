@@ -12,15 +12,11 @@ location: "Costa Rica"
 - Github: https://github.com/gabylizano/
 
 ## Professional Profile
-
 Professional in Project Management and Program Management with over 10 years of experience in multinational companies, and a Bachelor's degree in Business Administration and Accounting. Experience in IT, Human Resources, and Digital Transformations, Data Privacy and Security and implementation of new information systems focused on automation using AI to help me move faster. Competencies in end-to-end Project implementation and process improvement. Knowledge in ITIL, PMP, Six Sigma and Scrum. Trajectory in managing large-scale customer-facing Products. Proven ability in transforming complex requirements into manageable tasks with high impacting results.
 
-
 ## Professional Experience 
-
 ### Amazon January 2021 - December 2025
 #### Data Management Privacy & Security Program Manager II
-
 Led a Privacy and Security Program Team, and Special Projects focused on closing or reducing gaps in HR processes related to employee's Personal and Job Data Management. Analyzing each Project's individual impact and
 its return of investment to help prioritizing the work.
 
@@ -34,7 +30,6 @@ Achievements:
 
 ### IBM August 2016 - January 2021
 #### Software Transition Manager
-
 Led successful Software re-imaging, packaging and distribution projects on the client side to agreed processes. Managing multiple Stakeholders, communicating processes, timeframes and dependencies. Using Workflow Management tools, maintaining progress on multiple projects and report status to all stakeholders whilst keeping technical teams informed with transition tasks. Recognizing and meeting shifting priorities.
 
 Achievements:
@@ -44,29 +39,23 @@ Achievements:
 
 ### Hewlett Packard January 2007 - August 2016
 #### IT Project manager January 2013 - August 2016
-
 Led small to medium infrastructure projects of varying complexity, including network refreshes (WAN upgrades servers, switches, routers, and voice gateways), office moves, and data center decommissioning. Reviewed and agreed project objectives, owned end-to-end project delivery, scope management, schedule and risks while coordinating cross-functional stakeholders and vendors. Used IT systems to keep track of people and progress, recruiting specialists and sub-contractors, monitoring sub-contractors to ensure guidelines are maintained. Oversaw project's accounting, costing and billing. Applied independent judgment within defined policies and practices to determine the best method for achieving the project's objectives.
 
 #### Server Provisioning and Retirement Administrator January 2011 - January 2013
-
 Performed Server Build and Decommission of Physical and Virtual servers, OS installations in physical and virtual environments through expert level troubleshooting, problem solving and change management.
 
 #### Global Account Administrator January 2008 - January 2011
-
 Managed and resolved users' admin backend cases, process management via Active Directory within the client Security Policies.
 
 #### Service Desk Support Technician January 2007 - January 2008
-
 Providing On-line telephone IT technical support to end users on their mobile and desktop platforms. Highlevel expertise on standard software application packages and the environments and platforms in which the business operates (desktops, laptops, remote access, messaging, etc.)
 
 ## Education
-
 - Bachelor's Business Administration. Universidad Tecnológica Costarricense (UTC)
 - Bachelor's Accounting. Universidad Tecnológica Costarricense (UTC)
 - Associate's Project Management. Tecnológico de Costa Rica (TEC)
 
 ## Certifications
-
 - MS Project
 - ITIL
 - SCRUM Fundamentals
@@ -75,7 +64,6 @@ Providing On-line telephone IT technical support to end users on their mobile an
 
 
 ## Technical abilities
-
 - AI
 - Six Sigma/PMP
 - Project Management Tools: Asana, Amazon Projects, Salesforce
@@ -84,7 +72,6 @@ Providing On-line telephone IT technical support to end users on their mobile an
 - Git
 
 ## Languages
-
 - Spanish (Native)
 - English (Proficient C2)
 - Portuguese (Basic A2)
