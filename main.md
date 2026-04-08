@@ -85,7 +85,10 @@ Providing On-line telephone IT technical support to end users on their mobile an
 - AWS Cloud Practitioner
 - Python Essentials
 - Git
-  
+- Jenkins & GitLab CI/CD Pipelines
+- Docker & Containerization
+- Risk and Compliance Management
+   
 ## Languages
 
 - Spanish (Native)
