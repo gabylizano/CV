@@ -27,12 +27,12 @@ its return of investment to help prioritizing the work.
 
 Achievements:
 
-1. Managed the Job and Personal Data Program as part of the Global Privacy and Security Team receiving and reviewing all projects, prioritizing, I managed to automatize Personal Data management related processes and reduce the need for manual support of 14 out of 20 processes via tickets up to 60%, during the first three quarters of 2025. This translated to a reduction in force while providing business continuity.
+1. Managed the Job and Personal Data Program as part of the Global Privacy and Security Team receiving and reviewing all projects, prioritizing, I managed to automatize Personal Data management related processes and reduce the need for manual support of 14 out of 20 processes via tickets up to 70%, during the first three quarters of 2025. This translated to a reduction in force while providing business continuity.
 2. Coordinated the migration of a system used to store and manage all employee job and personal data. Analyzed data dictionaries and HR administrators' data usage to identify access and privacy requirements. Implemented a secure self-service model that restricted access to sensitive information while allowing employees to manage required personal data such as gender and religion. This approach strengthened data privacy controls and increased employee trust and satisfaction by ensuring their information was securely managed.
-3. Created Program strategy, setting goals and driving of the implementation of Workforce Data Management Tool to enable administrators to effectively manage Amazon employee's data and provided support at scale.
-4. Executed Change management for process improvement, new process set up, and transitions related to employees' Personal and Job Data domain.
+3. Created Program strategy, setting goals and driving of the implementation of Workforce Data Management Tool to enable administrators to effectively manage Amazon employee's data and provided support at scale. Executed Change management for process improvement, new process set up, and transitions related to employees' Personal and Job Data domain.
 5. Led special project intakes to close gaps on Employees'Personal and Job Data process support, reporting, and business continuity.
 6. Delivered HR special projects at the highest levels of efficiency, focusing on reducing manual efforts by diving deep into New and/or existing Automation solutions with Amazon Tech & Product Partner teams to deliver frustration free experiences for stakeholders and customers.
+7. Designed and managed the Talent Rotation Program, a 6-month cross-functional upskilling initiative that trained employees in product management skills through a blended curriculum combining hands-on shadowing, experiential project work, and structured mentorship. Assigned seasoned PM mentors to guide each mentee, managed end-toend program logistics including participant intake, session auditing, and facilitator coordination, and assessed learning needs through regular check-ins and milestone reviews. Achieved an 80% graduation rate during the first year of implementation - 8 of 10 participants successfully completed the program. Drove measurable business impact by placing 5 graduates into PM roles within Amazon, demonstrating strong program ROI and internal talent pipeline development. Organized and facilitated a Webinar graduation ceremony with certificate awards to reinforce participant recognition and leadership engagement, while continuously improving the curriculum based on participant satisfaction surveys and post-deployment feedback.
 
 ### IBM August 2016 - January 2021
 
@@ -79,16 +79,20 @@ Providing On-line telephone IT technical support to end users on their mobile an
 
 ## Technical abilities
 
-- AI
-- Six Sigma/PMP
-- Asana, Amazon Projects, Salesforce, QuickSight, Jira
+- Applied AI
+- Six Sigma
+- Scrum
+- PMP
+- Asana
+- Salesforce
+- QuickSight
+- Jira
 - AWS Cloud Practitioner
 - Python Essentials
 - Git
-- Jenkins & GitLab CI/CD Pipelines
-- Docker & Containerization
-- Risk and Compliance Management
-   
+- Amazon Lex
+- Google SecOps
+
 ## Languages
 
 - Spanish (Native)
