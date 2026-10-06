@@ -18,7 +18,7 @@ Professional in Program and Project Management with over 10 years of experience 
 
 ## Professional Experience
 
-### Amazon January 2021 - Present
+### Amazon January 2021 - December 2025
 
 #### Data Management Privacy & Security Program Manager II
 
